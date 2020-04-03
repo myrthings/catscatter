@@ -77,5 +77,6 @@ plt.show()
 ```
 ![](personalized_use.png)
 
-### Real use example.
+- **Real use**
+
 I created two poster size visualizations ([here](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/102f8eff-99bf-46c4-8bd2-72165b2fdff0/EU_Seed_Investors_Cheatsheet.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200403%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200403T144747Z&X-Amz-Expires=86400&X-Amz-Signature=efe950c4b4a4e715bb8662bf8d4719d0fd293383f714519bbcd509ee30d3135f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22EU%2520Seed%2520Investors%2520Cheatsheet.pdf%22) and [here](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9fe06868-522f-4fdc-9d74-b09205b7602b/EU_Series_A_Investors_Cheatsheet.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200403%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200403T144751Z&X-Amz-Expires=86400&X-Amz-Signature=fb577ffd7638d341025dcf8a87c66f592598439180dcae1e08449e9d3298c3ea&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22EU%2520Series%2520A%2520Investors%2520Cheatsheet.pdf%22)) using *catscatter* with the most active Investors and Industries in the EU VC Investors Ecosystem.
