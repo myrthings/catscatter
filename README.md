@@ -51,6 +51,9 @@ data=pd.DataFrame({'friend':['Peter','Marc','Ignacio','Marta','Marta','Ignacio',
 scatter_matrix(data,'friend','favorite_food','favorite_grade')
 plt.show()
 ```
+
+![](basic_use.png)
+
 - **Personalized use**
 ```
 import pandas as pd
@@ -70,4 +73,4 @@ plt.xticks(fontsize=14)
 plt.yticks(fontsize=14)
 plt.show()
 ```
-
+![](personalized_use.png)
