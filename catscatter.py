@@ -5,7 +5,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-def scatter_matrix(df,colx,coly,cols,color=['grey','black'],ratio=10,font='Helvetica',save=False,save_name='Default'):
+def catscatter(df,colx,coly,cols,color=['grey','black'],ratio=10,font='Helvetica',save=False,save_name='Default'):
     '''
     Goal: This function create an scatter plot for categorical variables. It's useful to compare two lists with elements in common.
     Input:
